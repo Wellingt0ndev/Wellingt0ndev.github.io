@@ -1,4 +1,4 @@
-** {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -43,7 +43,7 @@
 
 .name {
     color: #D6DBDF;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
